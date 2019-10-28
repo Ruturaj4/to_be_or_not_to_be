@@ -33,7 +33,7 @@ https://nbviewer.jupyter.org/github/Ruturaj4/to_be_or_not_to_be/blob/master/note
 
 ### Aim
 
-The aim of this project is to obtain additional values using exploratory data analysis and to use classification algorithms to build models to determine "player" using other columns. Here, other columns are treated as features and player values are treated as labels. hence the input dataset contain features as well as labels (i.e input and output).
+The aim of this project is to obtain additional values using exploratory data analysis and to use classification algorithms to build models to determine "player" using other columns. Here, other columns are treated as features and player values are treated as labels. Hence the input dataset contain features as well as labels (i.e input and output).
 
 ### Dataset used
 
